@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Dependencies](https://img.shields.io/badge/requirements-pandas%2C%20matplotlib%2C%20openpyxl-blue)
 
 Este projeto gera **gráficos de vendas semanais** a partir de dados em **Excel** ou **CSV**, usando **Python, Pandas e Matplotlib**.  
 
@@ -15,17 +16,11 @@ Ele permite visualizar os dados em:
 
 ---
 
-## 🚀 Tecnologias utilizadas
-- **Python 3.10+**
-- **Pandas** (para manipulação dos dados)
-- **Matplotlib** (para geração dos gráficos)
-- **OpenPyXL** (para leitura de arquivos Excel `.xlsx`)
+## 📦 Dependências
 
----
+As bibliotecas necessárias estão listadas no arquivo `requirements.txt`.  
 
-## ⚙️ Como rodar o projeto
-
-### 1. Clone este repositório
-```bash
-git clone https://github.com/seu-usuario/graficos-vendas.git
-cd graficos-vendas
+```txt
+pandas==2.2.2
+matplotlib==3.9.2
+openpyxl==3.1.5
