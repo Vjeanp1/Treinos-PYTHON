@@ -1,11 +1,14 @@
-# 📊 Gráficos de Vendas da Semana
+# 📊 gráficos-vendas-semana
+
+🔗 Repositório: [graficos-vendas-semana](https://github.com/Vjeanp1/graficos-vendas-semana)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Dependencies](https://img.shields.io/badge/requirements-pandas%2C%20matplotlib%2C%20openpyxl-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Este projeto gera **gráficos de vendas semanais** a partir de dados em **Excel** ou **CSV**, usando **Python, Pandas e Matplotlib**.  
+Este projeto gera **gráficos de vendas semanais** a partir de dados em **Excel** ou **CSV**, utilizando **Python, Pandas e Matplotlib**.  
 
 Ele permite visualizar os dados em:  
 ✅ Gráfico de **barras**  
